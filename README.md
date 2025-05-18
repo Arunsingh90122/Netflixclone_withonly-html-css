@@ -22,11 +22,16 @@ This is a **responsive Netflix homepage clone** built using **pure HTML and CSS*
 ## 📸 Screenshots
 
 ## 📁 Folder Structure
+
 netflix-clone/
 │
+
 ├── index.html
+
 ├── style.css
+
 └── /assets
+
 └── images/
 
 
